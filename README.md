@@ -20,25 +20,6 @@ This is a Mortgage Calculator application built with Next.js. It allows users to
 - **Tailwind CSS**: For styling the application.
 - **Framer Motion**: For smooth animations and transitions.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-2. Navigate to the project directory:
-   ```bash
-   cd mortgage-calculator
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-5. Open your browser and go to `http://localhost:3000`.
 
 ## Usage
 
@@ -49,9 +30,3 @@ To run this project locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-
-## Acknowledgments
-
-- Inspired by the design from [this image](https://i.imgur.com/Abyqwee.png).
-- Thanks to all contributors and users for their support!
